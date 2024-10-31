@@ -1,0 +1,76 @@
+NOMBRE_ALMACEN,POBLACION,MUNICIPIO,ESTADO,CODIGO_POSTAL,TIPO_UBICACION,CATEGORIA_TIENDA,CLIMA,TIPO_TIENDA
+4 CAMINOS,Naucalpan de Juárez,Naucalpan de Juárez,Estado de México,53489,Estacion de Tren Ligero CETRAM,Impulso,Templado,Show Room
+APIZACO,Apizaco,Apizaco,Tlaxcala,90300,Calle,Impulso,Templado,Show Room
+ARAGON,Ecatepec de Morelos,Ecatepec de Morelos,Estado de México,55140,Centro Comercial,Impulso,Templado,Show Room
+ARCO NORTE,Cuautitlán Izcalli,Cuautitlán Izcalli,Estado de México,54769,Price Shoes,Catalogo,Templado,Show Room
+CAMINERO INSURGENTES,Ciudad de México,Tlalpan,Ciudad de México,14090,Calle,Impulso,Templado,Show Room
+CAMPECHE,Campeche,Campeche,Campeche,24000,Calle,Impulso,Calor,Show Room
+CANCUN,Benito Juárez,Benito Juárez,Quintana Roo,77513,Centro Comercial,Impulso,Calor,Show Room
+CANCUN 2,Cancún,Cancún,Quintana Roo,77536,Centro Comercial,Impulso,Calor,Show Room
+CD. AZTECA,Ecatepec de Morelos,Ecatepec de Morelos,Ciudad de México,55120,Estacion de Tren Ligero CETRAM,Impulso,Templado,Show Room
+CHALCO,Chalco de Díaz Covarrubias,Chalco,Estado de México,56600,Calle,Impulso,Templado,Show Room
+CHALCO 2,Chalco de Díaz Covarrubias,Chalco,Estado de México,56600,Centro Comercial,Impulso,Templado,Show Room
+COMITAN,Comitan de Dominguez,Comitan de Dominguez,Chihuahua,30098,Centro Comercial,Impulso,Templado,Show Room
+COMITAN CENTRO,Comitan de Dominguez,Comitan de Dominguez,Chihuahua,30100,Calle,Impulso,Templado,Show Room
+CUAUTITLAN ROMERO,Cuautitlán,Cuautitlán,Estado de México,54800,Calle,Impulso,Templado,Show Room
+ECATEPEC 2,Ecatepec de Morelos,Ecatepec de Morelos,Estado de México,55100,Price Shoes,Catalogo,Templado,Show Room
+HUEHUETOCA,Huehuetoca,Huehuetoca,Estado de México,54680,Calle,Impulso,Templado,Show Room
+IXTAPALUCA,Ixtapaluca,Ixtapaluca,Estado de México,56530,Price Shoes,Catalogo,Templado,Show Room
+IZTAPALAPA,Iztapalapa,Benito Juárez,Ciudad de México,09209,Price Shoes,Catalogo,Templado,Show Room
+IZUCAR DE MATAMOROS,Izúcar de Matamoros,Izúcar de Matamoros,Puebla,74400,Calle,Impulso,Calor,Show Room
+LA VILLA,Ciudad de México,Gustavo A. Madero,Ciudad de México,07020,Calle,Impulso,Templado,Show Room
+LAS AMERICAS,Ecatepec de Morelos,Ecatepec de Morelos,Estado de México,55075,Centro Comercial,Impulso,Templado,Show Room
+LEON CENTRO,León de los Aldama,León,Guanajuato,37000,Calle,Impulso,Templado,Show Room
+MATIAS ROMERO,Matias Romero Avendaño,Matias Romero Avendaño,Oaxaca,70300,Calle,Impulso,Calor,Show Room
+MINATITLAN,Minatitlan,Minatitlan,Veracruz,96700,Calle,Impulso,Calor,Show Room
+MORELIA,Morelia,Morelia,Michoacán,58020,Calle,Impulso,Templado,Show Room
+NAUCALPAN,Naucalpan de Juárez,Naucalpan de Juárez,Estado de México,53470,Price Shoes,Catalogo,Templado,Show Room
+NEZA,Nezahualcoyotl,Nezahualcoyotl,Estado de México,57809,Centro Comercial,Impulso,Templado,Show Room
+PACHUCA PLAZA BELLA,Pachuca de Soto,Pachuca de Soto,Hidalgo,42060,Centro Comercial,Impulso,Frío,Show Room
+PALENQUE,Palenque,Palenque,Chihuahua,29960,Calle,Impulso,Calor,Show Room
+PINOTEPA,Santiago Pinotepa Naciona,Santiago Pinotepa Naciona,Oaxaca,71600,Calle,Impulso,Calor,Show Room
+PLAZA FIESTA IZCALLI,Cuautitlán Izcalli,Cuautitlán Izcalli,Estado de México,54750,Centro Comercial,Impulso,Templado,Show Room
+PLAZA OAXACA,Oaxaca,Oaxaca,Oaxaca,71244,Centro Comercial,Impulso,Calor,Show Room
+PLAZA TULYEHUALCO,Ciudad de México,Iztapalapa,Ciudad de México,09880,Centro Comercial,Impulso,Templado,Show Room
+POZA RICA,Poza Rica de Hidalgo,Poza Rica de Hidalgo,Veracruz,93260,Calle,Impulso,Calor,Show Room
+PUEBLA,Puebla (Heroica Puebla),Puebla,Puebla,72080,Price Shoes,Catalogo,Frío,Show Room
+PUEBLA 5 MAYO,Puebla (Heroica Puebla),Puebla,Puebla,72000,Calle,Impulso,Frío,Show Room
+SAN JUAN DEL RIO,San Juan del Rio,San Juan del Río,Querétaro,76800,Calle,Impulso,Frío,Show Room
+TECAMAC,Tecamac de Felipe Villanueva,Tecámac,Estado de México,55740,Calle,Impulso,Templado,Show Room
+TEHUACAN,Tehuacan,Tehuacan,Puebla,75700,Calle,Impulso,Frío,Show Room
+TIJUANA CENTRO,Tijuana,Tijuana,Baja California Norte,22000,Calle,Impulso,Templado,Show Room
+TIJUANA PRICE,Tijuana,Tijuana,Baja California Norte,22115,Price Shoes,Catalogo,Templado,Show Room
+TIZAYUCA,Tizayuca,Tizayuca,Hidalgo,43800,Calle,Impulso,Templado,Show Room
+TLAHUAC,Ciudad de México,Iztapalapa,Ciudad de México,09820,Calle,Catalogo,Templado,Show Room
+TOLUCA,Toluca de Lerdo,Toluca,Estado de México,50090,Price Shoes,Catalogo,Frío,Show Room
+TONALA,Tonala,Tonala,Chihuahua,30500,Centro Comercial,Impulso,Calor,Show Room
+TULYEHUALCO,Ciudad de México,Xochimilco,Ciudad de México,16090,Calle,Impulso,Templado,Show Room
+TUXTLA CENTRO,Tuxtla Gutierrez,Tuxtla Gutierrez,Chihuahua,29000,Calle,Impulso,Calor,Show Room
+TUXTLA GTZ 3,Tuxtla Gutierrez,Tuxtla Gutierrez,Chihuahua,29000,Calle,Impulso,Calor,Show Room
+VALLEJO,Azcapotzalco,Azcapotzalco,Ciudad de México,02300,Price Shoes,Catalogo,Templado,Show Room
+CHETUMAL,Othon P Blanco,Othon P Blanco,Quintana Roo,77090,Calle,Impulso,Calor,Show Room
+CUAUTITLAN IZCALLI,Cuautitlán,Cuautitlán,Estado de México,54800,Estacion de Tren Ligero CETRAM,Impulso,Templado,Show Room
+CUERNAVACA CENTRO,Cuernavaca,Cuernavaca,Morelos,62000,Calle,Impulso,Calor,Show Room
+INSURGENTES,Ciudad de México,Cuauhtémoc,Ciudad de México,06100,Calle,Impulso,Templado,Show Room
+MERIDA,Merida,Merida,Yucatán,97000,Calle,Impulso,Calor,Show Room
+NICOLAS ROMERO CENTRO,Villa Nicolás Romero,Nicolás Romero,Estado de México,54400,Calle,Impulso,Templado,Show Room
+OLIVAR DEL CONDE,Alvaro Obregón,‰lvaro Obregón,Ciudad de México,01470,Price Shoes,Catalogo,Templado,Show Room
+PLAYA DEL CARMEN,Solidaridad,Solidaridad,Quintana Roo,77710,Calle,Impulso,Calor,Show Room
+PUEBLA CENTRO,Puebla (Heroica Puebla),Puebla,Puebla,72000,Calle,Impulso,Frío,Show Room
+VALLADOLID,Valladolid,Valladolid,Yucatán,97780,Calle,Impulso,Calor,Show Room
+XOCHIMILCO,Ciudad de México,Xochimilco,Ciudad de México,16090,Calle,Impulso,Templado,Show Room
+CARDENAS,Cárdenas,Cárdenas,Tabasco,86500,Calle,Impulso,Calor,Show Room
+CIUDAD JARDIN,Nezahualcoyotl,Nezahualcoyotl,Estado de México,57205,Centro Comercial,Impulso,Templado,Show Room
+PARAISO,Paraiso Tabasco,Tabasco,Tabasco,86605,Calle,Impulso,Calor,Show Room
+SAN ANDRES TUXTLA,San Andres Tuxtla,San Andres Tuxtla,Veracruz,95700,Calle,Impulso,Calor,Show Room
+SAN MARTIN TEXMELUCAN,San Martín Texmelucan de Labastida,San Martín Texmelucan,Puebla,74000,Calle,Impulso,Frío,Show Room
+TAPACHULA,Tapachula,Tapachula,Chihuahua,30700,Calle,Impulso,Calor,Show Room
+HUIXTLA,Huixtla,Huixtla,Chihuahua,30640,Calle,Impulso,Calor,Show Room
+LOS REYES,Los Reyes Acaquilpan (La Paz),La Paz,Estado de México,56400,Calle,Catalogo,Templado,Show Room
+METRO PINO SUAREZ,Ciudad de México,Cuauhtémoc,Ciudad de México,06090,Calle,Impulso,Templado,Show Room
+ROSARIO,Azcapotzalco,Azcapotzalco,Ciudad de México,02100,Estacion de Tren Ligero CETRAM,Impulso,Templado,Show Room
+TULA CENTRO,Tula de Allende,Tula de Allende,Hidalgo,42800,Calle,Impulso,Templado,Show Room
+MERIDA 2,Merida,Merida,Yucatán,97000,Calle,Impulso,Calor,Show Room
+CHIMALHUACAN,Chimalhuacán,Chimalhuacán,Estado de México,56335,Centro Comercial,Impulso,Templado,Show Room
+ATLACOMULCO,Atlacomulco,Atlacomulco,Estado de México,50450,Calle,Impulso,Frío,Show Room
+XILITLA,Xilitla,Xilitla,San Luis Potosí,79900,Calle,Impulso,Templado,Show Room
